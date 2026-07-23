@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1952.cpp" />
     <ClCompile Include="x64\1244.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
