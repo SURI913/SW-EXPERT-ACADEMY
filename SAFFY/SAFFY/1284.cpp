@@ -14,8 +14,7 @@ int main() {
 		A = P * W;
 		if (W <= R) B = Q;
 		else B = S * (W - R) + Q;
-		cout << '#' << i << '\n';
-		cout << min(A, B) << '\n';
+		cout << '#' << test_case << ' ' << min(A, B) << '\n';
 	}
 
 	return 0;

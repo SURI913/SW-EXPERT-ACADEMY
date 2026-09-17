@@ -1,9 +1,10 @@
 #include<iostream>
 #include<vector>
+#include <algorithm>
 using namespace std;
 
 int main() {
-	int T = 3;
+	int T = 10;
 	int num;
 	for (int test_case = 1; test_case <= T; test_case++) {
 		int N, input, sum = 0;

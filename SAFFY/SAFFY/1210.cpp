@@ -1,5 +1,4 @@
 #include<iostream>
-#include<stack>
 using namespace std;
 #define MAX 100
 int ladder[MAX][MAX];

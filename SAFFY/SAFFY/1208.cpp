@@ -4,7 +4,7 @@ using namespace std;
 #define MAX 100
 
 int main() {
-	int T = 1;
+	int T = 10;
 	int num;
 	for (int test_case = 1; test_case <= T; test_case++) {
 		int dump;
